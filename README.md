@@ -42,6 +42,6 @@
     <input type="Submit">
         </dir>
         
-  </from>
+  </form>
 </body>
   
