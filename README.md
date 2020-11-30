@@ -36,7 +36,7 @@
         Tell us about yourself.(less than 500words)
     </dir>
     <dir>
-      <input type="text" placeholder="Text Only"
+      <input type="text" placeholder="Text Only">
       </dir>
         <dir>
     <input type="Submit">
