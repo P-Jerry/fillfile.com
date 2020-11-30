@@ -1,4 +1,4 @@
-![](download1.jpg)
+![](download1.png)
 <head>
   <title> My Work </title>
 </head>
