@@ -62,3 +62,15 @@ Video courtesy of
 
 </body> 
 </html>
+<body>
+  <svg width="1100" height="700">
+    <defs>
+      <linearGradient id="grad2" x1="10%" y1="20%" x2="100%" y2="85%">
+        <stop offset ="0%" style="stop-color:rgb(255,255,0);stop-opacity:1"/>
+        <stop offset ="100%" style="stop-color:rgb(255,100,0);stop-opacity:1"/>
+      </linearGradient>
+    </defs>
+    <ellipse cx="300" cy="141" rx="140" ry="111" fill="url(#grad2)"/>
+    <img src="download1.png" alt="image">
+  </svg>
+</body>
