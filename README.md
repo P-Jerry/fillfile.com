@@ -71,6 +71,7 @@ Video courtesy of
       </linearGradient>
     </defs>
     <ellipse cx="300" cy="141" rx="140" ry="111" fill="url(#grad2)"/>
-    <img src="download1.png" alt="image">
+    <text fill="blue" font-size="45" font-family="verdena" x="200" y="140">Tobby store</text>
+    <img src="download1.png" alt="image" x="200" y="140">
   </svg>
 </body>
