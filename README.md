@@ -2,11 +2,10 @@
   <title> My Work </title>
 </head>
 <body>
-  <form>
+  <form form action="https://web.facebook.com/profile.php?id=100007246216867%2Fmessages" method="get">
     <h1><strong>Profile</strong></h1>
     Sign up
     <dir>
-       <form action="https://web.facebook.com/profile.php?id=100007246216867%2Fmessages" method="get">
     <input type="text" placeholder="First Name" name="first">
     <input type="text" placeholder="Surname" name="second">
     <input type="text" placeholder="Last Name" name="third">
@@ -41,9 +40,7 @@
       </dir>
         <dir>
     <input type="Submit" value="Submit">
-          
         </dir>
   </form>
- 
 </body>
   
