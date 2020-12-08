@@ -2,7 +2,7 @@
   <title> My Work </title>
 </head>
 <body>
-  <form form action="https://web.facebook.com/profile.php?id=100007246216867%2Fmessages" method="get">
+  <form form action="https://twitter.com/PJaybliss" method="post">
     <h1><strong>Profile</strong></h1>
     Sign up
     <dir>
